@@ -13,14 +13,6 @@ Spatial flows between consecutive distribution snapshots describe how one config
 
 Using device-level mobile positioning data from the Twin Cities Metropolitan Area, Minnesota, DSEN achieves a **14.0% correlation improvement** and **15.3% error reduction** compared to baselines in inferring human flows during the 2021 Christmas holiday.
 
-### Key Features
-
-- **Panel Flow Inference**: Infer spatial flows from consecutive spatial distribution snapshots
-- **Deep Learning Architecture**: Graph Attention Networks with evolutionary feature learning  
-- **High Performance**: Significant improvements over traditional gravity models and optimization-based approaches
-- **Comprehensive Evaluation**: Includes multiple baseline comparisons and ablation studies
-- **Generalization**: Tested across different events (Christmas 2020, COVID-19 2020)
-
 ## Architecture
 
 DSEN consists of two main components:
